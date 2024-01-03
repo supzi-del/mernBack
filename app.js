@@ -17,9 +17,8 @@ const port = process.env.PORT;
 connectDB();
 
 const allowedOrigins = [
-  "https://main.d1sj7cd70hlter.amplifyapp.com",
-  "https://expense-tracker-app-three-beryl.vercel.app",
-  "http://localhost:3000", // Add the local development origin
+  "http://localhost:3000",
+  "https://mernback-2t8n.onrender.com/"// Add the local development origin
   // add more origins as needed
 ];
 
