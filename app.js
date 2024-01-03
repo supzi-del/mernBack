@@ -18,7 +18,7 @@ connectDB();
 
 const allowedOrigins = [
   "http://localhost:3000",
-  "https://mernback-2t8n.onrender.com/"// Add the local development origin
+  "https://mernfront-psbr.onrender.com"// Add the local development origin
   // add more origins as needed
 ];
 
