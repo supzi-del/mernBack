@@ -17,8 +17,9 @@ const port = process.env.PORT;
 connectDB();
 
 const allowedOrigins = [
+  "https://mernback-2t8n.onrender.com/",
   "http://localhost:3000",
-  "https://mernfront-psbr.onrender.com"// Add the local development origin
+  // Add the local development origin
   // add more origins as needed
 ];
 
