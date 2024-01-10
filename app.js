@@ -17,7 +17,8 @@ const port = process.env.PORT;
 connectDB();
 
 const allowedOrigins = [
-  "https://mernback-2t8n.onrender.com/",
+  "https://expense-tracker-app-main-git-main-suprithas-projects-eb55b552.vercel.app",
+  "https://expense-tracker-app-main.vercel.app",
   "http://localhost:3000",
   // Add the local development origin
   // add more origins as needed
